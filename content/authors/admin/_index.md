@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sharmila Gopirajan Sivakumar 
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Founder 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: SEO Fit 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Sharmila Gopirajan runs niftyword.com and sitefitnesshq.com. She loves everything Python. Dreams of learning Rust. She has one feet planted in tech and other in business. Currently diving into all things SEO and Voice-Tech. Can never pass up anything dinosaurs or chocolate.
 
 interests:
 - Artificial Intelligence
@@ -47,21 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/sitefitnesshq
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/sharmi
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sharmila.gopirajan@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sharmila Gopirajan runs niftyword.com and sitefitnesshq.com. She loves everything Python. Dreams of learning Rust. She has one feet planted in tech and other in business. Currently diving into all things SEO and Voice-Tech. Can never pass up anything dinosaurs or chocolate.
