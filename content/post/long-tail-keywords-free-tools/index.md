@@ -7,8 +7,14 @@ tags: ["long tail keywords","free tools","SEO"]
 description: Where to find long tail keywords, how to target the right keywords at the right demographic and how to effectively use long tail keywords in SEO.
 comments: true
 share: true
-menu: ""
+header:
+  image: "seo_keyword.png"
+  caption: "hello"
 ---
+
+
+
+{{% toc %}}
 
 Everybody loves Long Tail Keywords. Everybody needs long Tail Keywords. From _____ of Problogger to the young hopeful, who started the blog yesterday.
 
@@ -16,7 +22,8 @@ It is pure gold for young hopefuls.  Long tail keywords help get our foot in the
 
 For the veterans, long tail keywords are a way to divine user's need for new information and cater to their needs. A source of new ideas when you are stuck.
 
-###When is a good time start with long tail keyworkds?
+### When is a good time start with long tail keywords?
+
 It would be easier to get ideas when you have a running website for a while which will help understand the user needs and see which of the long tail keywords you already cater to.
 
 
@@ -26,38 +33,58 @@ Keyword is a phrase with one or more words that users enter into the google sear
 ### Long Tail Keyword Finders in 2020
 Many tools that were free like "Keywords Everywhere" are paid tools now. Even tools that had limited free tier have become totally paid. Yet, new tools are coming up every month to fill the void.  Here are some tools that I use often. I have made short demos so you can see what they do in a glance.
 
-#### KeywordShitter
+#### [KeywordShitter](https://keywordshitter.com/)
 One new tool I found recently and totally loved was KeywordShitter. I found the name initially off-putting but the tool really delivers. I have managed to download about 285 long tail keywords for the keyword "long tail keyword"
 
 You can also specify words that have to be present using "positive filter" and words that should not be present using "negative filter".
 
 Once you have enough terms, you can download the list as text file by clicking on the "download" link.
 
-#### [Keywordtool.io ](keywordtool.io)
+{{< video src="keywordshitter_demo.mp4" controls="yes" >}}
+
+#### [Keywordtool.io](keywordtool.io)
+
 Keywordtool.io is another great tool.  You also get to find keywords specific to Google Search, Youtube, Amazon, Bing etc and it is possible to get country specific keywords for each of these. How great is that!
 
 Let us feed the same keyword "Long tail keyword" to keywordtool.io and see the results.
 
 While the free version does not give the keyword's search volume, the paid version does and the paid version also gives twice the number of keywords as the free version does.
 
+{{< video src="keywordtool_demo.mp4" controls="yes" >}}
+
 #### [keyword.io](keyword.io)
 keyword.io is another great tool to get long tail keywords. The free version gives you plenty of long tail keywords. If you sign up for the free account, you can download them as a text or csv file. If you sign up for a paid account, then you will get the search volumes too.
+
+{{< figure src="image.jpg" title="A caption" lightbox="true" >}}
 
 #### [Keyword Surfer]()
 Keyword surfer is free Chrome Extension. Once installed in Chrome, whenever you do a search on google, you get the search volume for the current keyword and more keyword suggestions.
 
+{{< figure src="keywordsurfer1.png" title="A caption" lightbox="true" >}}
+
+
+
+{{< figure src="keywordsurfer2.png" title="A caption" lightbox="true" >}}
 
 #### Google Search
 Google Search itself is a great tool for getting great keyword suggestions. Of course, one needs to put in a lot of work to get a sizeable amount of keywords but considering that the keywords are straight from the horse's mouth, it should never be overlooked. Every content creator should look out for the 3 great features of a google search page.
 
 1. keyword suggestions dropbox
-Google suggests a list of possible keywords when you type a query into the search box. These the keywords that people search for the most. So google tries to help the next user by giving some useful suggestions. This can be a veritable goldmine.
+  Google suggests a list of possible keywords when you type a query into the search box. These the keywords that people search for the most. So google tries to help the next user by giving some useful suggestions. This can be a veritable goldmine.
+
+  {{< figure src="google_search_keyword_suggestions.png" title="A caption" lightbox="true" >}}
 
 2. People Also Ask Box
-The people also ask box comes up with plenty of real questions that users search for. Try different but related search queries and collect all the questions that come up.  This can be extremely useful in crafting a well designed blogpost.
+  The people also ask box comes up with plenty of real questions that users search for. Try different but related search queries and collect all the questions that come up.  This can be extremely useful in crafting a well designed blogpost.
+
+  {{< figure src="google_search_people_also_ask.png" title="A caption" lightbox="true" >}}
 
 3. Searches related to
-At the bottom of the search page, google gives a list of other related search queries. This can be added to your list of long tail keywords. Also visit these pages and collect other keyword suggestions and People Questions on those pages too.
+  At the bottom of the search page, google gives a list of other related search queries. This can be added to your list of long tail keywords. Also visit these pages and collect other keyword suggestions and People Questions on those pages too.
+
+  {{< figure src="google_search_searches_related_to.png" title="A caption" lightbox="true" >}}
+
+  
 
 #### TODO add that tool with search volume
 #### Google Adwords Keyword Planner Tool
