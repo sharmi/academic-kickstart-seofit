@@ -30,7 +30,39 @@ You can also specify words that have to be present using "positive filter" and w
 
 Once you have enough terms, you can download the list as text file by clicking on the "download" link.
 
-{{< video src="keywordshitter_demo.mp4" controls="yes" >}}
+
+{{< figure src="https://cache.sitefitnesshq.com/images/keywordshitter_demo.gif" title="A demo of keywordshitter tool" lightbox="true" >}}
+
+#### [UberSuggest]()
+UberSuggest has come a long way from being just a long tail keyword generator tool.
+
+UberSuggest has many sub tools. The two core tools are the Keywords Tool and Content Ideas Tool.
+
+The Keyword Tools gives plenty of long tail keyword options for your keyword. In addition, it also gives you the following:
+* Monthly Search Volume for the keyword
+* SEO Difficulty - How easy it is to rank organically for the keyword
+* Paid Difficulty - How easy it is to bid for the keyword on Google AdWords
+* CPC - or Cost per Click for the keyword
+
+It also gives the top 100 pages ranking for your keyword, the Domain Authority for each page, the Page Authority, Number of backlinks and social shares.
+
+That's a really thorough sweep of actionable data to take a clear decision.
+
+
+{{< figure src="https://cache.sitefitnesshq.com/images/ubersuggest_keywords.gif" title="UberSuggest Keywords Demo" lightbox="true" >}}
+
+
+The other part of the tool is the 'Content Idea Tool'. Here when you enter the keyword, the tool gives you link of pages with similar content that you can use as inspiration.
+
+For each page, it also gives the keywords that that particular page ranks for, the backlinks for that page and social shares.
+
+You could use the websites in the backlinks list as those  who could link to your website too.
+
+That is a wealth of information for your blogging strategy.
+
+
+
+{{< figure src="https://cache.sitefitnesshq.com/images/ubersuggest_content.gif" title="UberSuggest Content Ideas Demo" lightbox="true" >}}
 
 #### [Keywordtool.io](keywordtool.io)
 
@@ -40,7 +72,8 @@ Let us feed the same keyword "Long tail keyword" to keywordtool.io and see the r
 
 While the free version does not give the keyword's search volume, the paid version does and the paid version also gives twice the number of keywords as the free version does.
 
-{{< video src="keywordtool_demo.mp4" controls="yes" >}}
+{{< figure src="https://cache.sitefitnesshq.com/images/keywordtool.gif" title="KeywordTool demo" lightbox="true" >}}
+
 
 #### [keyword.io](keyword.io)
 keyword.io is another great tool to get long tail keywords. The free version gives you plenty of long tail keywords. If you sign up for the free account, you can download them as a text or csv file. If you sign up for a paid account, then you will get the search volumes too.
@@ -75,8 +108,6 @@ Google Search itself is a great tool for getting great keyword suggestions. Of c
   {{< figure src="google_search_searches_related_to.png" title="A caption" lightbox="true" >}}
 
   
-
-#### TODO add that tool with search volume
 #### Google Adwords Keyword Planner Tool
 No list of tools is complete without the Google Adwords Keyword Planner Tool.
 
@@ -97,18 +128,23 @@ Everyday an average person searches on Google 3 or 4 times in a day
 As per sources from [Google Zeitgeist](https://archive.google.com/zeitgeist/2012/#the-world) and [Internet Live Stats](https://www.internetlivestats.com/google-search-statistics/) around 1.2 trillion searches are done every year.
 
 
-500 million datapoints are small potatoes. Of course, they can be used to guess at what your competitors are upto, are they progressing and where.
+500 million datapoints are small potatoes. Of course, they can be used to guess at what your competitors are upto, whether they are progressing and where.
 
-But if you want to expand your strategy and uncover real long tails, new opportunities, there is another place that you can look at.
+But if you want to expand your strategy and uncover real profitable long tails and new opportunities, there is another place that you can look at.
 
 Google Search Console.
 
 Google Search Console's dashboard might not be the most versatile but Google allows you to download all the keywords. You can also choose the time period for the data : Last week, Last month, 3 months or a custom period.
 
-One way to check for keywords you can target :
+Google Search Console has data for the past 16 months.
+
+Here are some strategies to use GSC to target new keywords :
 
 1. Filter for keywords that are ranking for position 7 or higher. These are potentially keywords you can rank for better if the content on the page is improved
-2. Find all the keywords that you are ranking for this month that you did not rank for the previous month.  These are new keywords that Google has decided are good match for your website. You would have intentionally targeted some of the keywords. Usually there will be a sizeable number of keywords that you have not targeted but Google still sends traffic your way. This may be because keyword is a great match for your site or because the keyword was a new concept and the content targeted to this keyword is yet to be created. Either way, you can capitalize on Google's decision and create content for such keywords.  You can rank faster for these keywords as Google already considers you an appropriate source. Of course, you will need to choose which keywords to consider from the bigger list of keywords.
+   
+2. Find all the keywords that you are ranking for this month that you did not rank for the previous month.  These are new keywords that Google has decided are good match for your website. Usually there will be a sizable number of keywords that you have not purposefully targeted but Google still sends traffic your way. This may be because keyword is a great match for your site or because the keyword was a new concept and the content targeted to this keyword is yet to be created in the world wide web. Either way, you can capitalize on Google's decision and create more content targeted at such keywords.  You can rank faster for these keywords as Google already considers you an appropriate source. 
+
+
 
 
 

@@ -8,7 +8,7 @@ description: Why should we use long tail keywords, Where to find long tail keywo
 comments: true
 share: true
 header:
-  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Long_tail.svg/800px-Long_tail.svg.png"
+  image: "long_tail_keywords.png"
   caption: "Long tail keyword"
 ---
 
@@ -20,13 +20,29 @@ Long tail keywords helped grow my 70K pages per month website to 500K pageviews 
 
 Everybody loves long tail keywords. Everybody needs some.
 
-It is pure gold for young hopefuls.  Long tail keywords help get the foot in the SERP door and start climbing the ranking charts. Walk before you run. Long tails before going after the popular short tail keywords.
+It is pure gold for young hopefuls.  Long tail keywords help get the foot in the SERP door and start climbing the ranking charts. Walk before you run. Long tails before going after the popular short tail (aka head) keywords.
 
 For the veterans, long tail keywords are a way to divine user's need for new information and cater to their needs. A source of new ideas when you are stuck.
 
 
 ### What are long tail keywords?
-Keyword is a phrase with one or more words that users enter into the google search box to find something they need. Long tail keywords are keywords with 3 or more words that have fewer users searching for. This may be because it is a niche topic or because the it is something that users look for once in a while. For example, 'keto diet' is a short-tail keyword. It has been searched 2.5M times globally and 1.83M times in US in the last month. On the other hand 'keto diet plan for beginners' have 35K and 27K searches respectively. 'keto diet plan for women' have 1.9K and 1.6K respectively. 'keto diet plan for women's weight loss' have just 50 searches globally.
+Keyword is a phrase with one or more words that users enter into the google search box to find something they need. 
+
+A head keyword is mostly a single word with very huge traffic but also very high competition. 
+
+Long tail keywords are keywords with 3 or more words that have fewer users searching for. This may be because it is a niche topic or because the it is something that users look for once in a while. 
+
+A mid-tail keyword falls between the long tail keywords and head keywords.
+
+While a head keyword (also known as short tail keyword) have high traffic, the number of long tail keywords is huge in comparison. 
+
+Most of the searches in google are for long tail keywords.
+
+{{< figure src="head_long_tail_keywords_ratio.png" title="Head keywords and long tail keywords volume comparison" lightbox="true" >}}
+
+For example, 'keto diet' is a short-tail keyword. It has been searched 2.5M times globally and 1.83M times in US in the last month. On the other hand 'keto diet plan for beginners' have 35K and 27K searches respectively. 'keto diet plan for women' have 1.9K and 1.6K respectively. 'keto diet plan for women's weight loss' have just 50 searches globally.
+
+{{< figure src="long_tail_keywords_examples.png" title="Head keywords and long tail keywords example" lightbox="true" >}}
 
 If you look closer at the results, you will see that there are a lot of blog posts tuned for 'keto diet plan for beginners'. The search page is dominated by 'Featured snippet' and Ads.
 
@@ -37,10 +53,17 @@ On the other hand, the search results page for 'keto diet plan for women' do not
 
 
 ### Why are long tail keywords important?
-Long Tail Keywords are bread and butter of SEO Experts and for good reason.
+Long Tail Keywords are the bread and butter of SEO Experts and for good reason.
 
 #### Understand User Intent
-The intention and needs of the user are more easily understandable. Consider '1200 calorie keto diet plan' to 'keto diet plan'. We now know users are looking for a specific calorie goal. We also know their need is to lose weight (as opposed to managing a medical condition). They are also probably working with a date or time period in mind. They might also be on an exercise regimen or considering one. So you can tailor content to this user's need. 
+The intention and needs of the user are more easily understandable. Compare the long tail keyword '1200 calorie keto diet plan' to 'keto diet plan'. 
+Here are a few things we can immediately infer.
+* We now know users are looking for a specific calorie goal. 
+* We also know their need is to lose weight (as opposed to managing a medical condition). 
+* They are also probably working with a date or time period in mind. 
+* They might also be on an exercise regimen or considering one. 
+ 
+Now you can tailor the content for this keyword to this user's specific need. 
 
 When the content is relatable, the user stays on your page longer. This is a very significant signal used by Google to boost your site's authority.
 
@@ -79,7 +102,7 @@ LSI keywords are not the same as long tail keywords though there will be some ov
 
 Long tail keywords are exact words that users enter in the search box. 
 
-On the other hand, LSI keyword is more like the lingo that a community uses to discuss it's special interests. Google checks your blogpost against this lingo to determine if you are really part of that group or just pretending to be.
+On the other hand, LSI keyword is more like the lingo that a community uses to discuss it's special interests. Google checks your blogpost against this lingo to determine if you have really made content useful for that group or just pretending to be.
 
 If you are interested in a true LSI keyword generator, please let me know in the comments. I am quite interested in building one if people have a need for it.
 
@@ -94,8 +117,21 @@ Keyword Search Volume is the number of times a particular keyword has been searc
 
 In most tools, this is usually one month. So 'keto diet plan for women' of search volume 1.9K  means 1900 people have searched for the keyword 'keto diet plan for women' in the last month on Google.
 
+
+{{< figure src="keyword_difficulty_2.png" title="Keyword Search Volume" lightbox="true" >}}
+
 #### 4. What is keyword difficulty?
-Keyword difficulty is a measure for conveying how difficult it is to rank for a particular keyword. This measure is designed and calculated independently by several SEO tools. So, the difficulty value for a keyword may differ from one tool to another. Generally, the values are on the scale of 0-100 and lesser the value the easier it is to rank.  For example, Moz's Keyword difficulty ranking is on algorithmic scale. So a value of 20-30 is much easier to rank compared to a keyword with value 30-40.
+Keyword difficulty is a measure for conveying how difficult it is to rank for a particular keyword. 
+
+This measure is designed and calculated independently by several SEO tools. 
+
+So, the difficulty value for a keyword may differ from one tool to another. 
+
+Generally, the values are on the scale of 0-100 and lesser the value the easier it is to rank.  For example, Moz's Keyword difficulty ranking is on algorithmic scale. So a value of 20-30 is much easier to rank compared to a keyword with value 30-40.
+
+In the image below, SEO difficulty implies difficulty in ranking organically. Paid difficulty refers to difficulty in placing ads in Google Adwords.
+
+{{< figure src="keyword_difficulty.png" title="Keyword difficulty" lightbox="true" >}}
 
 #### 5. What are the different types of long tail keywords?
 There are generally 5 types of keywords that the user is looking for with varying conversion rates.
