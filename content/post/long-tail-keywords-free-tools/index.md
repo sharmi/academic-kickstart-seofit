@@ -49,7 +49,7 @@ It also gives the top 100 pages ranking for your keyword, the Domain Authority f
 That's a really thorough sweep of actionable data to take a clear decision.
 
 
-{{< figure src="https://cache.sitefitnesshq.com/images/ubersuggest_keywords.gif" title="UberSuggest Keywords Demo" lightbox="true" >}}
+{{< figure src="https://cache.sitefitnesshq.com/images/ubersuggest_keywords_demo.gif" title="UberSuggest Keywords Demo" lightbox="true" >}}
 
 
 The other part of the tool is the 'Content Idea Tool'. Here when you enter the keyword, the tool gives you link of pages with similar content that you can use as inspiration.
@@ -62,7 +62,7 @@ That is a wealth of information for your blogging strategy.
 
 
 
-{{< figure src="https://cache.sitefitnesshq.com/images/ubersuggest_content.gif" title="UberSuggest Content Ideas Demo" lightbox="true" >}}
+{{< figure src="https://cache.sitefitnesshq.com/images/ubersuggest_content_demo.gif" title="UberSuggest Content Ideas Demo" lightbox="true" >}}
 
 #### [Keywordtool.io](keywordtool.io)
 
